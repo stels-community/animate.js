@@ -1,5 +1,9 @@
 animate.js
 ==========
+_No matter, what you animate, in Javascript that one of two: object property, or function argument._
+
+_Animate what You want_ :)
+
 ~~~
 compact and fast vanilla.js anythig animation library
 ~~~
